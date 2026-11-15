@@ -23,7 +23,9 @@ else
     git checkout -q -- newsroom/words-used.txt      # a rehearsal does not use up words
 fi
 
-git fetch -q origin
+# fetch the branches by name: a fresh clone may know only one branch
+git fetch -q origin "+refs/heads/mailbox:refs/remotes/origin/mailbox"
+git fetch -q origin "+refs/heads/$TARGET:refs/remotes/origin/$TARGET" 2>/dev/null || true
 if git rev-parse -q --verify "origin/$TARGET" >/dev/null; then
     git checkout -q -B "$TARGET" "origin/$TARGET"
 else
