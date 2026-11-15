@@ -220,7 +220,7 @@ def main():
         for n, a in enumerate(ed["articles"], 1):
             for q in a["quiz"]:
                 f.write("|".join(["a%d" % n, q["word"].strip(), q["right"].strip(), q["wrong"].strip(),
-                                  plain(q["sentence"]), plain(q["explain"])]) + "\n")
+                                  plain(q["sentence"]), plain(q["explain"]), q["marked"].strip()]) + "\n")
     with open(os.path.join(OUT, "edition.txt"), "w", encoding="utf-8") as f:
         f.write("id=%s\narticles=%d\nmade=%s\n" % (
             ed["id"], total, datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M UTC")))
