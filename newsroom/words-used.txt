@@ -1,1 +1,16 @@
 # Quiz words already used, one per line. render.py adds to this list by itself.
+abroad
+appointment
+assembly
+incumbent
+majority
+pressure
+target
+term
+threat
+to agree on
+to endorse
+to govern
+to hold office
+to pass a law
+to settle
