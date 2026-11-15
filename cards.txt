@@ -1,0 +1,14 @@
+01-carroll-breakfast.png
+02-montgomery-new-day.png
+03-eliot-less-difficult.png
+04-grahame-boats.png
+05-bronte-no-bird.png
+06-whitman-multitudes.png
+07-wilde-gutter.png
+08-twain-exaggeration.png
+09-thoreau-heaven.png
+10-austen-staying-home.png
+11-anthony-impossible.png
+12-dickinson-hope.png
+13-dacre-bicycle.png
+14-alcott-storms.png
