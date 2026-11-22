@@ -5,76 +5,32 @@
     {
       "headline": "Germany may get its first woman president",
       "body": [
-        "Ilse Aigner, a conservative politician from Bavaria, is now the candidate with the best chance of becoming Germany's next president. Chancellor Friedrich Merz *endorses* her. If she wins, she will be the first woman to *hold the office*.",
-        "Germans do not elect their president themselves. A special *assembly*, the Federal Convention, votes on 30 January 2027. Frank-Walter Steinmeier, the *incumbent*, has to leave after two *terms*."
+        "Ilse Aigner, a conservative politician from Bavaria, is now the candidate with the best chance of becoming Germany's next president. Chancellor Friedrich Merz endorses her. If she wins, she will be the first woman to hold the office.",
+        "Germans do not elect their president themselves. A special assembly, the Federal Convention, votes on 30 January 2027. Frank-Walter Steinmeier, the incumbent, has to leave after two terms."
       ],
-      "sources": ["Haaretz", "Wikipedia"],
-      "quiz": [
-        {"marked": "endorses", "word": "to endorse", "right": "öffentlich unterstützen", "wrong": "ernennen",
-         "sentence": "Chancellor Friedrich Merz endorses her.",
-         "explain": "To endorse someone is to say in public that you support them. A chancellor cannot appoint a president."},
-        {"marked": "hold the office", "word": "to hold office", "right": "ein Amt innehaben", "wrong": "ein Büro leiten",
-         "sentence": "If she wins, she will be the first woman to hold the office.",
-         "explain": "Office here means an official position, not a room with desks. To hold it is to have that position."},
-        {"marked": "assembly", "word": "assembly", "right": "die Versammlung", "wrong": "die Abstimmung",
-         "sentence": "A special assembly, the Federal Convention, votes on 30 January 2027.",
-         "explain": "An assembly is a group of people who meet to decide something. The vote is what they do, not what they are."},
-        {"marked": "incumbent", "word": "incumbent", "right": "der Amtsinhaber", "wrong": "der Präsident",
-         "sentence": "Frank-Walter Steinmeier, the incumbent, has to leave after two terms.",
-         "explain": "The incumbent is the person who holds an office right now. Steinmeier is a president, but the word does not mean president."},
-        {"marked": "terms", "word": "term", "right": "die Amtszeit", "wrong": "die Wahl",
-         "sentence": "Frank-Walter Steinmeier, the incumbent, has to leave after two terms.",
-         "explain": "A term is the fixed time someone may stay in an office. For a German president, one term lasts five years."}
+      "sources": [
+        "Haaretz",
+        "Wikipedia"
       ]
     },
     {
       "headline": "SPD leader wants faster reforms from his partner",
       "body": [
-        "Lars Klingbeil, the SPD leader and finance minister, is putting *pressure* on his coalition partner, the CDU/CSU. He says several reforms that both sides *agreed on* in July are still waiting. He names two: a law on heart health and guaranteed *appointments* with specialist doctors.",
-        "The two parties *govern* together, and their leaders meet regularly in a coalition committee to *settle* arguments. The next meeting is coming up soon."
+        "Lars Klingbeil, the SPD leader and finance minister, is putting pressure on his coalition partner, the CDU/CSU. He says several reforms that both sides agreed on in July are still waiting. He names two: a law on heart health and guaranteed appointments with specialist doctors.",
+        "The two parties govern together, and their leaders meet regularly in a coalition committee to settle arguments. The next meeting is coming up soon."
       ],
-      "sources": ["dpa"],
-      "quiz": [
-        {"marked": "pressure", "word": "pressure", "right": "der Druck", "wrong": "die Schuld",
-         "sentence": "Lars Klingbeil, the SPD leader and finance minister, is putting pressure on his coalition partner, the CDU/CSU.",
-         "explain": "To put pressure on someone is to push them to act. Blame would mean saying that something is their fault."},
-        {"marked": "agreed on", "word": "to agree on", "right": "sich einigen auf", "wrong": "streiten über",
-         "sentence": "He says several reforms that both sides agreed on in July are still waiting.",
-         "explain": "To agree on something is to decide it together. To argue about it is the opposite."},
-        {"marked": "appointments", "word": "appointment", "right": "der Termin", "wrong": "die Behandlung",
-         "sentence": "He names two: a law on heart health and guaranteed appointments with specialist doctors.",
-         "explain": "An appointment is a fixed time to see someone, such as a doctor. The treatment is what happens once you are there."},
-        {"marked": "govern", "word": "to govern", "right": "regieren", "wrong": "verhandeln",
-         "sentence": "The two parties govern together, and their leaders meet regularly in a coalition committee to settle arguments.",
-         "explain": "To govern is to run a country. Parties negotiate before they govern, and often while they do."},
-        {"marked": "settle", "word": "to settle", "right": "beilegen", "wrong": "beginnen",
-         "sentence": "The two parties govern together, and their leaders meet regularly in a coalition committee to settle arguments.",
-         "explain": "To settle an argument is to end it with a decision that both sides accept."}
+      "sources": [
+        "dpa"
       ]
     },
     {
       "headline": "Parliament passes a new law for the secret services",
       "body": [
-        "The Bundestag has *passed* a broad reform of the law on Germany's intelligence services. Alexander Dobrindt, speaking for the government, said the country is a *target* of hybrid *threats*. That means attacks that mix spying, sabotage and false information.",
-        "Germany has three federal intelligence services: one works *abroad*, one inside the country, and one protects the armed forces. Their powers are limited by law, so every change needs a *majority* in parliament."
+        "The Bundestag has passed a broad reform of the law on Germany's intelligence services. Alexander Dobrindt, speaking for the government, said the country is a target of hybrid threats. That means attacks that mix spying, sabotage and false information.",
+        "Germany has three federal intelligence services: one works abroad, one inside the country, and one protects the armed forces. Their powers are limited by law, so every change needs a majority in parliament."
       ],
-      "sources": ["Bundestag"],
-      "quiz": [
-        {"marked": "passed", "word": "to pass a law", "right": "ein Gesetz beschließen", "wrong": "ein Gesetz ablehnen",
-         "sentence": "The Bundestag has passed a broad reform of the law on Germany's intelligence services.",
-         "explain": "When a parliament passes a law, it votes yes. If it votes no, it rejects the law."},
-        {"marked": "target", "word": "target", "right": "das Ziel", "wrong": "die Quelle",
-         "sentence": "Alexander Dobrindt, speaking for the government, said the country is a target of hybrid threats.",
-         "explain": "A target is what an attack is aimed at. The source would be where the attack comes from."},
-        {"marked": "threats", "word": "threat", "right": "die Bedrohung", "wrong": "der Angriff",
-         "sentence": "Alexander Dobrindt, speaking for the government, said the country is a target of hybrid threats.",
-         "explain": "A threat is a danger that may come. An attack is the moment it really happens."},
-        {"marked": "abroad", "word": "abroad", "right": "im Ausland", "wrong": "im Geheimen",
-         "sentence": "Germany has three federal intelligence services: one works abroad, one inside the country, and one protects the armed forces.",
-         "explain": "Abroad means in other countries. All three services work in secret, so that word would not tell them apart."},
-        {"marked": "majority", "word": "majority", "right": "die Mehrheit", "wrong": "die Debatte",
-         "sentence": "Their powers are limited by law, so every change needs a majority in parliament.",
-         "explain": "A majority is more than half of the votes. A debate is only the talking before the vote."}
+      "sources": [
+        "Bundestag"
       ]
     }
   ]

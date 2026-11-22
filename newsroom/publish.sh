@@ -15,15 +15,6 @@ python3 newsroom/render.py "$EDITION"
 ID=$(sed -n 's/^id=//p' news/edition.txt)
 rm -rf /tmp/news-out && cp -r news /tmp/news-out && rm -rf news
 
-if [ "$TARGET" = "mailbox" ]; then
-    git add newsroom/words-used.txt
-    git commit -q -m "$(msg "Note the quiz words of edition $ID")"
-    push newsroom
-else
-    git checkout -q -- newsroom/words-used.txt      # a rehearsal does not use up words
-fi
-
-# fetch the branches by name: a fresh clone may know only one branch
 git fetch -q origin "+refs/heads/mailbox:refs/remotes/origin/mailbox"
 git fetch -q origin "+refs/heads/$TARGET:refs/remotes/origin/$TARGET" 2>/dev/null || true
 if git rev-parse -q --verify "origin/$TARGET" >/dev/null; then
